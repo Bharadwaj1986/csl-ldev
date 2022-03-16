@@ -1,7 +1,7 @@
 <L>19038<pc>0705-a<k1>पीत<k2>पीत
 {#पीत#}¦ {%<ab>a.</ab>%} [{#पा-कर्मणि क्त#}] {@1@} Drunk,
 quaffed; {#वनाय पीतप्रतिबद्धवत्सां#} ({#गां#}
-{#मुसोच#}) <ls>R. 2. 1.</ls> {@--2@} Steeped, <lbinfo n="soak+ed"/>
+{#मुमोच#}) <ls>R. 2. 1.</ls> {@--2@} Steeped, <lbinfo n="soak+ed"/>
 soaked in, filled or saturated with
 {@--3@} Absorbed, drunk up, evaporated;
 <ls>Ku. 4. 44.</ls> {@--4@} Watered, sprinkled
